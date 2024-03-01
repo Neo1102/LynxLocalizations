@@ -2,7 +2,7 @@
 "HIDE_SEARCH_BAR" = "隱藏搜尋欄";
 "HIDE_SEARCH_BAR_SUBTITLE" = "停用滑動手勢";
 "DISABLE_SWIPE_TO_SEARCH" = "停用向下滑動手勢";
-"DISABLE_SWIPE_TO_SEARCH_SUBTITLE" = "Independently cancels swipe down gesture";
+"DISABLE_SWIPE_TO_SEARCH_SUBTITLE" = "單獨取消向下滑動手勢";
 "ELEMENTS" = "元素";
 "HIDE_LABELS_ON_HOMESCREEN" = "隱藏名稱";
 "HIDE_LABELS_ON_HOMESCREEN_SUBTITLE" = "隱藏主畫面應用程式名稱";
@@ -29,7 +29,3 @@
 "DISABLE_WIDGETS_HOMESCREEN_SUBTITLE" = "在主畫面中停用向右滑動顯示小工具手勢";
 "HIDE_EDIT_BUTTON" = "隱藏「編輯」按鈕";
 "HIDE_EDIT_BUTTON_SUBTITLE" = "在小工具頁面中隱藏「編輯」按鈕";
-
-
-
-
